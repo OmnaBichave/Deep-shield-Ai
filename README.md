@@ -49,7 +49,7 @@ js/analysis.js          signal functions (no DOM needed except canvas re-encode)
 js/app.js               user interface
 SECURITY_AUDIT.md       results of the pre-release safety scan
 THIRD_PARTY_NOTICES.md  no third-party code is used
-LICENSE                 MIT
+
 ```
 
 ## Limitations
@@ -59,6 +59,4 @@ LICENSE                 MIT
 - Missing metadata is common and only a weak hint; present metadata can be forged.
 - Do not use results to accuse anyone or to decide legal, employment or safety matters.
 
-## License
 
-MIT. See `LICENSE`.
